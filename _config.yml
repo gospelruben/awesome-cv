@@ -12,7 +12,7 @@ cv   : "resume.pdf"
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  moya10
+github_username:  gospelruben
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
@@ -25,7 +25,7 @@ github_username:  moya10
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
 
