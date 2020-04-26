@@ -1,9 +1,18 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
+  name: Easwari Engineering College, Chennai
+  dates: 2012 - 2014
+  qualification: Master of Engineering In Communication Systems
+  #quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraph
+  M.E. (Communication Systems) educates about devices, gadgets, equipment, tools and technologies which get utilized in multimedia information, communicating voice and other data.
+
+- layout: left
+  name: Alpha Engineering College, Chennai
+  dates: 2007 - 2011
+  qualification: Bachelor of Engineering In Electronics and Communication System
+  #quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    This stream of engineering deals with analog transmission, basic electronics, microprocessors, solid state devices, digital and analog communication, analog integrated circuits, microwave engineering, satellite communication, antennae and wave progression.
