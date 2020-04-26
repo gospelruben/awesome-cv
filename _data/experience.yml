@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
   company: Photon Interactive Private Limited
-  link: https://www.photon.in/
+  link: <b>https://www.photon.in/</b>
   job_title: Software Engineer in Test IV
   dates: 2015 - present
   quote: >
-   Short description of the company (optional)
+   <p>Photon is a known leader in creating omnichannel and mobile-first digital experiences. We serve as our customers’ innovation partner by combining ever-changing consumer behaviors and digital knowledge with unique insights into existing and emerging technologies to develop a range of innovative digital solutions.</p>
   description: | # this will include new lines to allow paragraphs
     Description of role
