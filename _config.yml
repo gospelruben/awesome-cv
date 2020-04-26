@@ -29,7 +29,7 @@ about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   <b>3</b> Years of experience in Software Automation Testing and <b>2</b> Year of experience in Software Manual Testing.
   
-  <b>Automation Testing Skills:</b> Automation Testing (Web App, Mobile App), Web Services Testing(REST).
+  <b>Automation Testing Skills:</b> Automation Testing (Web App, Mobile App), Web Services - Performance Testing(REST), DataBase Testing(Selenium).
   
   <b>Manual Testing Skills:</b> Functional Testing, Regression Testing, ADA (American Disability Act),Data Validation Testing.
   
