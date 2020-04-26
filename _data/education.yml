@@ -6,4 +6,13 @@
   quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraph
-  M.E. (Communication Systems) educates about devices, gadgets, equipment, tools and technologies which get utilized in multimedia information, communicating voice and other data.
+    M.E. (Communication Systems) educates about devices, gadgets, equipment, tools and technologies which get utilized in multimedia information, communicating voice and other data.
+
+- layout: left
+  name: Alpha Engineering College, Chennai
+  dates: 2007 - 2011
+  qualification: Bachelor of Engineering In Electronics and Communication System
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    This stream of engineering deals with analog transmission, basic electronics, microprocessors, solid state devices, digital and analog communication, analog integrated circuits, microwave engineering, satellite communication, antennae and wave progression.
