@@ -7,7 +7,7 @@ name: Gospel Ruben S
 title: QA ENGINEER
 email: gospelruben@gmail.com ; gospelruben.s@gmail.com
 #phone: Your phone number (optional)
-#cv   : "resume.pdf"
+cv   : "Ruben Automation Resume-April2020.pdf"
 #website: Your website (eg. https://google.com)(optional)
 
 # Social links
@@ -54,9 +54,21 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  <b>TECHNICAL SKILLS:</b>
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Testing Tools: Selenium WebDriver/IDE, WinApp Driver, Appium, Jenkins, Fire bug and Fire Path.
+  Languages: Java,SQL, XPath.
+  Web Technologies: HTML, CSS, Java,Regular Expression, log4j, JDBC.
+  Unit Test Frameworks: Cucumber, Junit, TestNG.
+  Bug Tracking Tools: Insight, HP ALM, JIRA, Confluence, Test Link
+  Web Services: JMeter, POSTMAN, TAURUS, MonitoringTool(Grafana, Influx-DB).
+  Version Control Tools:GIT and GITHUB Desktop.
+  Build Tools: MAVEN.
+  Databases: SQL.
+  Operating Systems: Mac, Windows.
+  Devices Used for Testing: Android mobile, iOS mobile, Tablet, iPad.
+  Continous Integration Tool: Jenkins
+  
 
 # Footer
 footer_show_references: true
