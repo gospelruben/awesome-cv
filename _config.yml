@@ -27,11 +27,11 @@ github_username:  gospelruben
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  3 Years of experience in Software Automation Testing and 2 Year of experience in Software Manual Testing.
+  3 Years of experience in Software Automation Testing and 2 Year of experience in Software Manual Testing. 
   <b>Automation Testing Skills:</b> Automation Testing (Web App, Mobile App Testing), Web Services Testing(REST), 
   <b>Manual Testing Skills:</b> Functional Testing, Regression Testing, ADA (American Disability Act) Testing.                   
-  <b>Testing Tools:</b> JIRA, Insight, HP ALM, TestLink
-  <b>Domain Knowledge:</b> Insurance, Health Care, Gaming,Finance
+  <b>Testing Tools:</b> JIRA, Insight, HP ALM, TestLink. 
+  <b>Domain Knowledge:</b> Insurance, Health Care, Gaming,Finance.
 
   
   You can find my brief description in this [Resume](Ruben Automation Resume-April2020.pdf)
