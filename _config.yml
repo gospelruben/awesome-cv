@@ -5,8 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Gospel Ruben S
 title: QA ENGINEER
-email: gospelruben@gmail.com
-gospelruben.s@gmail.com
+email: gospelruben@gmail.com;gospelruben.s@gmail.com
 #phone: Your phone number (optional)
 #cv   : "resume.pdf"
 #website: Your website (eg. https://google.com)(optional)
