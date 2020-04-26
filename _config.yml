@@ -52,20 +52,20 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: Technical Skills #(Use this to override about more section title)
+more_title: Technical Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  <ul><li>Testing Tools: Selenium WebDriver/IDE, WinApp Driver, Appium, Jenkins, Fire bug and Fire Path.</li>
-  <li>Languages: Java,SQL, XPath.</li>
-  <li>Web Technologies: HTML, CSS, Java,Regular Expression, log4j, JDBC.</li>
-  <li>Unit Test Frameworks: Cucumber, Junit, TestNG.</li>
-  <li>Bug Tracking Tools: Insight, HP ALM, JIRA, Confluence, Test Link.</li>
-  <li>Web Services: JMeter, POSTMAN, TAURUS, MonitoringTool(Grafana, Influx-DB).</li>
-  <li>Version Control Tools:GIT and GITHUB Desktop.</li>
-  <li>Build Tools: MAVEN.</li>
-  <li>Databases: SQL.</li>
-  <li>Operating Systems: Mac, Windows.</li>
-  <li>Devices Used for Testing: Android mobile, iOS mobile, Tablet, iPad.</li>
-  <li>Continous Integration Tool: Jenkins.</li></ul>
+  <ul><li><b>Testing Tools:</b> Selenium WebDriver/IDE, WinApp Driver, Appium, Jenkins, Fire bug and Fire Path.</li>
+  <li><b>Languages:</b> Java,SQL, XPath.</li>
+  <li><b>Web Technologies:</b> HTML, CSS, Java,Regular Expression, log4j, JDBC.</li>
+  <li><b>Unit Test Frameworks:</b> Cucumber, Junit, TestNG.</li>
+  <li><b>Bug Tracking Tools:</b> Insight, HP ALM, JIRA, Confluence, Test Link.</li>
+  <li><b>Web Services:</b> JMeter, POSTMAN, TAURUS, MonitoringTool(Grafana, Influx-DB).</li>
+  <li><b>Version Control Tools:</b>GIT and GITHUB Desktop.</li>
+  <li><b>Build Tools:</b> MAVEN.</li>
+  <li><b>Databases:</b> SQL.</li>
+  <li><b>Operating Systems:</b> Mac, Windows.</li>
+  <li><b>Devices Used for Testing:</b> Android mobile, iOS mobile, Tablet, iPad.</li>
+  <li><b>Continous Integration Tool:</b> Jenkins.</li></ul>
   
 
 # Footer
