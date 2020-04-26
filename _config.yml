@@ -29,7 +29,7 @@ about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   <b>3</b> Years of experience in Software Automation Testing and <b>2</b> Year of experience in Software Manual Testing.
   
-  <b>Automation Testing Skills:</b> Automation Testing (Web App, Mobile App), Web Services - Performance Testing(REST), DataBase Testing(Selenium).
+  <b>Automation Testing Skills:</b> Web App(Selenium), Mobile App(Appium), Web Services Testing(REST), DataBase Testing(Selenium).
   
   <b>Manual Testing Skills:</b> Functional Testing, Regression Testing, ADA (American Disability Act),Data Validation Testing.
   
@@ -46,7 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
 # projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+experience_title: Work Experience #(Use this to override about experience section title)
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
@@ -65,11 +65,12 @@ more_content: | # this will include new lines to allow paragraphs
   <li><b>Databases:</b> SQL.</li>
   <li><b>Operating Systems:</b> Mac, Windows.</li>
   <li><b>Devices Used for Testing:</b> Android mobile, iOS mobile, Tablet, iPad.</li>
-  <li><b>Continous Integration Tool:</b> Jenkins.</li></ul>
+  <li><b>Continous Integration Tool:</b> Jenkins.</li>
+  <li><b>ADA Testing Tools:</b> NVDA, Talkback for Android, Voice-Over for iOS, WAVE Evaluation Tool.</li></ul>
   
 
 # Footer
-footer_show_references: true
+#footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
