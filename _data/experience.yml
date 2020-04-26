@@ -9,8 +9,7 @@
   description: | # this will include new lines to allow paragraphs
    <b>My Roles and Responsibility:</b>
   
-   <p>Develop and configure test automation networks and execute stability and performance tests.
-   Coordinate with product management and software and support engineers to deliver stable enterprise software products.
+   <p>Develop and configure test automation and execute stability and performance tests.
    Enhance test frameworks and develop automated tests and estimate test accurately and coordinate with team members for work activities.
    Analyze and verify best automated and manual test approaches and execute acceptance, integration, installation and system testing.
    Continously Integrate with the development and execution of Automated scripts for all the builds using CI tools. 
