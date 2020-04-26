@@ -27,7 +27,8 @@ github_username:  gospelruben
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-3 Years of experience in Software Automation Testing and 2 Year of experience in Software Manual Testing.Proficient in Automating Web Applications with good experience on  Java using test automation tool Selenium WebDriver and Mobile Automation using Appium Automation Framework and WebDriver.Working experience on all phases of Software Development Life Cycle (SDLC),such as Agile. Well versed with various testing stages/levels/phases, testing types, testing techniques and quality work products.
+3 Years of experience in Software Automation Testing and 2 Year of experience in Software Manual Testing.Proficient in Automating Web Applications with good experience on  Java using test automation tool Selenium WebDriver and Mobile Automation using Appium Automation Framework and WebDriver.
+Working experience on all phases of Software Development Life Cycle (SDLC),such as Agile. Well versed with various testing stages/levels/phases, testing types, testing techniques and quality work products.
 Extensively used JAVA for Test case automation. Experience in the development of  Data driven, Hybrid Automation frameworks in Selenium. Proficient Experience in implementing BDD.
 Sound knowledge on Cucumber Junit framework, Maven for Project building tool, Jenkins for Continuous Integration. 
 
