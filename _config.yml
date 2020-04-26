@@ -28,8 +28,8 @@ github_username:  gospelruben
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   3 Years of experience in Software Automation Testing and 2 Year of experience in Software Manual Testing.
-
-You can find my brief description in this [Resume](qaresume/Ruben Automation Resume-April2020.pdf)
+  
+  You can find my brief description in this [Resume](qaresume/Ruben Automation Resume-April2020.pdf)
 #- Tables
     #- Links
     #- Images
