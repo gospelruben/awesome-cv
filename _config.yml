@@ -31,11 +31,10 @@ about_content: | # this will include new lines to allow paragraphs
 Extensively used JAVA for Test case automation. Experience in the development of  Data driven, Hybrid Automation frameworks in Selenium. Proficient Experience in implementing BDD.
 Sound knowledge on Cucumber Junit framework, Maven for Project building tool, Jenkins for Continuous Integration. 
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
-    - Tables
-    - Links
-    - Images
+  You can find my brief description in this [Resume](qaresume/Ruben Automation Resume-April2020.pdf)
+    #- Tables
+    #- Links
+    #- Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
