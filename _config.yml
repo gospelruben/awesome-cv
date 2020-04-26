@@ -5,7 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Gospel Ruben
 title: QA ENGINEER
-email: gospelruben@gmail.com | gospelruben.s@gmail.com
+email: gospelruben@gmail.com  gospelruben.s@gmail.com
 #phone: Your phone number (optional)
 #cv   : "resume.pdf"
 #website: Your website (eg. https://google.com)(optional)
@@ -27,10 +27,14 @@ github_username:  gospelruben
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  3 Years of experience in Software Automation Testing and 2 Year of experience in Software Manual Testing. 
-  <b>Automation Testing Skills:</b> Automation Testing (Web App, Mobile App Testing), Web Services Testing(REST), 
-  <b>Manual Testing Skills:</b> Functional Testing, Regression Testing, ADA (American Disability Act) Testing.                   
-  <b>Testing Tools:</b> JIRA, Insight, HP ALM, TestLink. 
+  3 Years of experience in Software Automation Testing and 2 Year of experience in Software Manual Testing.
+  
+  <b>Automation Testing Skills:</b> Automation Testing (Web App, Mobile App Testing), Web Services Testing(REST).
+  
+  <b>Manual Testing Skills:</b> Functional Testing, Regression Testing, ADA (American Disability Act) Testing.
+  
+  <b>Testing Tools:</b> JIRA, Insight, HP ALM, TestLink.
+  
   <b>Domain Knowledge:</b> Insurance, Health Care, Gaming,Finance.
 
   
