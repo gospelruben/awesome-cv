@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Gospel Ruben
 title: QA ENGINEER
 email: gospelruben@gmail.com
-phone: Your phone number (optional)
+#phone: Your phone number (optional)
 cv   : "resume.pdf"
 #website: Your website (eg. https://google.com)(optional)
 
@@ -27,7 +27,9 @@ github_username:  gospelruben
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
+3 Years of experience in Software Automation Testing and 2 Year of experience in Software Manual Testing.Proficient in Automating Web Applications with good experience on  Java using test automation tool Selenium WebDriver and Mobile Automation using Appium Automation Framework and WebDriver.Working experience on all phases of Software Development Life Cycle (SDLC),such as Agile. Well versed with various testing stages/levels/phases, testing types, testing techniques and quality work products.
+Extensively used JAVA for Test case automation. Experience in the development of  Data driven, Hybrid Automation frameworks in Selenium. Proficient Experience in implementing BDD.
+Sound knowledge on Cucumber Junit framework, Maven for Project building tool, Jenkins for Continuous Integration. 
 
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
     - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
