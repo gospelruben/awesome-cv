@@ -8,10 +8,10 @@
    <p>Photon is a known leader in creating omnichannel and mobile-first digital experiences. Photon delivers compelling digital experiences with the synergy of a creative front-end integrated into the back-end enterprise architecture. </p>
   description: | # this will include new lines to allow paragraphs
    Description of Roles and Responsibility
-  1.Attending the scrum meeting.
-  2.Understanding the application.
-  3.Creating Automation/Manual/ADA Testcases/ServiceAssurance document based on the Type of Testing.
-  4.Executing the Testcases on the build received
-  5.Logging the Bugs on the defect tracker assigned for the project
-  6.ReExecution of Automation/Manual Testcases assigned for Retesting
-  7.Execution of Regression Testcases
+   1.Attending the scrum meeting.
+   2.Understanding the application.
+   3.Creating Automation/Manual/ADA Testcases/ServiceAssurance document based on the Type of Testing.
+   4.Executing the Testcases on the build received
+   5.Logging the Bugs on the defect tracker assigned for the project
+   6.ReExecution of Automation/Manual Testcases assigned for Retesting
+   7.Execution of Regression Testcases
