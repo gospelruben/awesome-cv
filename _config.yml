@@ -52,22 +52,20 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+# more_title: Technical Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  <b>TECHNICAL SKILLS:</b>
-
-  Testing Tools: Selenium WebDriver/IDE, WinApp Driver, Appium, Jenkins, Fire bug and Fire Path.
-  Languages: Java,SQL, XPath.
-  Web Technologies: HTML, CSS, Java,Regular Expression, log4j, JDBC.
-  Unit Test Frameworks: Cucumber, Junit, TestNG.
-  Bug Tracking Tools: Insight, HP ALM, JIRA, Confluence, Test Link
-  Web Services: JMeter, POSTMAN, TAURUS, MonitoringTool(Grafana, Influx-DB).
-  Version Control Tools:GIT and GITHUB Desktop.
-  Build Tools: MAVEN.
-  Databases: SQL.
-  Operating Systems: Mac, Windows.
-  Devices Used for Testing: Android mobile, iOS mobile, Tablet, iPad.
-  Continous Integration Tool: Jenkins
+  <ul><li>Testing Tools: Selenium WebDriver/IDE, WinApp Driver, Appium, Jenkins, Fire bug and Fire Path.</li>
+  <li>Languages: Java,SQL, XPath.</li>
+  <li>Web Technologies: HTML, CSS, Java,Regular Expression, log4j, JDBC.</li>
+  <li>Unit Test Frameworks: Cucumber, Junit, TestNG.</li>
+  <li>Bug Tracking Tools: Insight, HP ALM, JIRA, Confluence, Test Link.</li>
+  <li>Web Services: JMeter, POSTMAN, TAURUS, MonitoringTool(Grafana, Influx-DB).</li>
+  <li>Version Control Tools:GIT and GITHUB Desktop.</li>
+  <li>Build Tools: MAVEN.</li>
+  <li>Databases: SQL.</li>
+  <li>Operating Systems: Mac, Windows.</li>
+  <li>Devices Used for Testing: Android mobile, iOS mobile, Tablet, iPad.</li>
+  <li>Continous Integration Tool: Jenkins.</li></ul>
   
 
 # Footer
