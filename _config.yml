@@ -7,7 +7,7 @@ name: Gospel Ruben
 title: QA ENGINEER
 email: gospelruben@gmail.com
 #phone: Your phone number (optional)
-cv   : "resume.pdf"
+#cv   : "resume.pdf"
 #website: Your website (eg. https://google.com)(optional)
 
 # Social links
@@ -29,7 +29,7 @@ about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   3 Years of experience in Software Automation Testing and 2 Year of experience in Software Manual Testing.
   
-  You can find my brief description in this [Resume](qaresume/Ruben Automation Resume-April2020.pdf)
+  You can find my brief description in this [Resume](Ruben Automation Resume-April2020.pdf)
 #- Tables
     #- Links
     #- Images
