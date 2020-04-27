@@ -1,18 +1,18 @@
 # Education Template
-- layout: center
-  name: Easwari Engineering College, Chennai
-  dates: 2012 - 2014
-  qualification: Master of Engineering In Communication Systems
-  quote: >
+#- layout: center
+ # name: Easwari Engineering College, Chennai
+  #dates: 2012 - 2014
+ # qualification: Master of Engineering In Communication Systems
+ # quote: >
     
-  description: | # this will include new lines to allow paragraph
+  #description: | # this will include new lines to allow paragraph
     
 
-- layout: left
-  name: Alpha Engineering College, Chennai
-  dates: 2007 - 2011
-  qualification: Bachelor of Engineering In Electronics and Communication System
-  quote: >
+#- layout: left
+#  name: Alpha Engineering College, Chennai
+  #dates: 2007 - 2011
+  #qualification: Bachelor of Engineering In Electronics and Communication System
+ # quote: >
     
-  description: | # this will include new lines to allow paragraphs
+  #description: | # this will include new lines to allow paragraphs
     
