@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Gospel Ruben S
-title: QA ENGINEER
+title: Senior QA ENGINEER
 email: gospelruben@gmail.com ; gospelruben.s@gmail.com
 #phone: Your phone number (optional)
 cv   : "Ruben Automation Resume-April2020.pdf"
