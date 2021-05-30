@@ -27,7 +27,7 @@ linkedin_username: gospel-ruben-a0476450
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <b>3</b> Years of experience in Software Automation Testing and <b>2</b> Year of experience in Software Manual Testing.
+  <b>4</b> Years of experience in Software Automation Testing and <b>2</b> Year of experience in Software Manual Testing.
   
   <b>Automation Testing Skills:</b> Web App(Selenium), Mobile App(Appium), Web Services Testing(REST), DataBase Testing(Selenium).
   
